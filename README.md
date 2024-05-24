@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 -->
 ![](https://raw.githubusercontent.com/Toufik-Islam/cf-stats/main/output/light_card.svg)
 
-![](https://raw.githubusercontent.com/Toufik-Islam/cf-stats/main/output/max_rating.svg)
+Max rating: 
+![](https://raw.githubusercontent.com/Toufik-Islam/cf-stats/main/output/max_rating.svg) 
+Current rating: 
 ![](https://raw.githubusercontent.com/Toufik-Islam/cf-stats/main/output/rating.svg)
